@@ -1,5 +1,5 @@
 # Project : BODYLIKE
-- [BODYLUV](https://bodyluv.kr/?cafe_mkt=ue_g_main_sa_own&utm_source=google&utm_medium=sa_own_cpc&utm_campaign=keyword&utm_term=%EB%B0%94%EB%94%94%EB%9F%BD&utm_content=bodyluv_main&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhhL1emCdcojfoOcM_XEchiM04lG6JcYCNpJsQroNer4_iK7fRzhcBoCJFYQAvD_BwE) 클론 사이트
+- [BODYLUV](https://bodyluv.kr/?cafe_mkt=ue_g_main_sa_own&utm_source=google&utm_medium=sa_own_cpc&utm_campaign=keyword&utm_term=%EB%B0%94%EB%94%94%EB%9F%BD&utm_content=bodyluv_main&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhhL1emCdcojfoOcM_XEchiM04lG6JcYCNpJsQroNer4_iK7fRzhcBoCJFYQAvD_BwE) 모티브 사이트
 - 욕실 용품 커머스 서비스
 - [BODYLIKE 시연 영상 보러가기](https://youtu.be/_TEbHw0EREg)
 
