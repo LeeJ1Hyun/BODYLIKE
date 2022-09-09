@@ -48,10 +48,16 @@
 
 ## &#127919; 구현 API 및 업무 소개
 
-<br/>
-
 ### 이지현
 - ERD 모델링
+- BULK INSERT
+- 리뷰 API (GET/ POST/ DELETE/ PATCH)
+  - transaction을 이용한 pagination 구현
+- 장바구니 담기 (상세페이지) API (POST)
+  - 기존 데이터 베이스 검사를 통하여 추가로 담기 기능 구현
+
+<br/>
+
 - BULK INSERT 비동기적 구현
   
 ```
@@ -92,7 +98,7 @@ const bulkInsert = async() => {
 bulkInsert();
 ```
 
-- 리뷰 API (GET/ POST/ DELETE/ PATCH)
+- 리뷰 API
   - transaction을 이용한 pagination 구현
 
 ```
@@ -130,9 +136,6 @@ const reviewList = async (start, pageSize, productId) => {
   }
 };
 ```
-
-- 장바구니 담기 (상세페이지) API (POST)
-  - 기존 데이터 베이스 검사를 통하여 추가로 담기 기능 구현
 
 <br/>
 
